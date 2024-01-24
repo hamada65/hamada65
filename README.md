@@ -1,4 +1,4 @@
-<span align="center"> ### Hi there 👋 </span>
+<h1 align="center"> ### Hi there 👋 </h1>
 
 - 📫 How to reach me : elghayour65@gmail.com <br /> <br />
 - 🌱 I’m currently Studying on 1337 School (UM6P)
