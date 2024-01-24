@@ -2,6 +2,7 @@
 
 - 📫 How to reach me : elghayour65@gmail.com <br /> <br />
 - 🌱 I’m currently Studying on 1337 School (UM6P)
+
 [![mel-rhay's 42 stats](https://badge.mediaplus.ma/black/mel-rhay)](https://github.com/oakoudad/badge42)
 
 <!--
