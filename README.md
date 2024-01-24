@@ -4,6 +4,7 @@
 - 🌱 I’m currently Studying on 1337 School (UM6P)
 
 [![mel-rhay's 42 stats](https://badge.mediaplus.ma/black/mel-rhay)](https://github.com/hamada65)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamada65&layout=compact&count_private=true&theme=dracula" />
 
 <!--
 **hamada65/hamada65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
