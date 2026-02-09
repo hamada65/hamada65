@@ -41,9 +41,9 @@ Software engineer who grew from low-level systems programming to running real-wo
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hamada65&theme=transparent&show_icons=true" alt="hamada65's GitHub Stats" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=hamada65&theme=transparent" alt="hamada65's GitHub Streak" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamada65&theme=transparent&layout=donut&langs_count=8" alt="hamada65's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamada65&show_icons=true" alt="hamada65's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hamada65" alt="hamada65's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamada65&layout=donut&langs_count=8" alt="hamada65's Most Used Languages" />
 </div>
 
 <hr>
