@@ -1,6 +1,5 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/hamada65/count.svg" alt="Visitor's Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hamada65.hamada65&left_color=blueviolet&right_color=blueviolet" alt="Visitor's Count" />
 </div>
 
 <h1 align="center">
